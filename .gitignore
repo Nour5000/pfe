@@ -14,3 +14,12 @@ log/
 # Dataset bags
 *.db3
 *.yaml
+.vscode/
+**/.vscode/
+*.vc.db
+*.vc.db-shm
+*.vc.db-wal
+dataset_hospital/
+runs/
+*.pt
+*.db3
