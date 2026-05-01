@@ -23,3 +23,5 @@ dataset_hospital/
 runs/
 *.pt
 *.db3
+__pycache__/
+*.pyc
